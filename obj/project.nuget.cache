@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sc+GFWmrYtzXEM5t3tCVp9KpYOW2rxHKw0NEZO6yqDE0GPOrEgriEVB667PmY5mvkGw3UBJ5HcYSOliNDBL6rQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\elaurent\\Desktop\\Galvanize\\AirplaneReservation2\\AirplaneReservation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elaurent\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
